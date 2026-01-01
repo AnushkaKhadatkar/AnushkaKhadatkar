@@ -79,7 +79,7 @@ My background spans **distributed data processing, cloud data warehousing, data 
 </p>
 
 <p>
-  <b>Tech Stack:</b> Python, Airbyte, BigQuery, dbt, SQL
+  <b>Tech Stack:</b> Python, BigQuery, dbt, SQL, CouchDB
 </p>
 
 
@@ -124,3 +124,9 @@ My background spans **distributed data processing, cloud data warehousing, data 
 ---
 
 ⭐️ Feel free to explore my repositories and connect with me!
+
+---
+
+<p align="center">
+  From <a href="[https://github.com/your-username](https://github.com/AnushkaKhadatkar)"><b>AnushkaKhadatkar</b></a>
+</p>
