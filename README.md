@@ -123,11 +123,11 @@ My background spans **distributed data processing, cloud data warehousing, data 
 
 ---
 
-⭐️ Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories and connect with me!
 
 ---
 
 <p align="center">
-  ⭐ From <a href="[https://github.com/your-username](https://github.com/AnushkaKhadatkar)"><i>AnushkaKhadatkar</i></a>
+  ⭐ From <a href="https://github.com/AnushkaKhadatkar"><i>AnushkaKhadatkar</i></a>
 </p>
 
