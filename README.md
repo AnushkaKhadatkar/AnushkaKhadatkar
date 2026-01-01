@@ -81,7 +81,14 @@ My background spans **distributed data processing, cloud data warehousing, data 
 <p>
   <b>Tech Stack:</b> Python, BigQuery, dbt, SQL, CouchDB
 </p>
+---
+### 🚀 Evolution of Space Exploration: Orbital Missions (1957–2025)
 
+_End-to-end data visualization and analytical project exploring global orbital missions from 1957 to 2025._
+
+Built interactive Tableau dashboards to analyze **6,634 orbital missions**, uncovering historical trends, mission success rates, country participation, and the shift from government-led to **commercially driven space exploration**.
+
+**Tech Stack:** Tableau, Python, Pandas, REST APIs
 
 ---
 
