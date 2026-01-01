@@ -128,5 +128,6 @@ My background spans **distributed data processing, cloud data warehousing, data 
 ---
 
 <p align="center">
-  From <a href="[https://github.com/your-username](https://github.com/AnushkaKhadatkar)"><b>Anushka Khadatkar</b></a>
+  ⭐ From <a href="[https://github.com/your-username](https://github.com/AnushkaKhadatkar)"><i>AnushkaKhadatkar</i></a>
 </p>
+
