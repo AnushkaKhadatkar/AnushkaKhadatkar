@@ -84,6 +84,21 @@ My background spans **distributed data processing, cloud data warehousing, data 
 
 ---
 
+<h3>🛒 Product Catalog Data Pipeline (Airflow + dbt + Snowflake)</h3>
+
+<p><i>End-to-end data engineering pipeline with SCD Type 2 and zero-copy cloning.</i></p>
+
+<p>
+Built an automated pipeline using Apache Airflow, dbt, and Snowflake to process product catalog data.
+Implemented SCD Type 2, dbt snapshots, automated testing, and Snowflake zero-copy cloning.
+</p>
+
+<p>
+<b>Tech Stack:</b> Airflow, dbt, Snowflake, Python, SQL
+</p>
+
+---
+
 <h3>🚀 Evolution of Space Exploration: Orbital Missions (1957–2025)</h3>
 
 <p><i></i>End-to-end data visualization and analytical project exploring global orbital missions from 1957 to 2025.</i></p>
