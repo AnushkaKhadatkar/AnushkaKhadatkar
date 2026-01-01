@@ -65,65 +65,55 @@ My background spans **distributed data processing, cloud data warehousing, data 
 
 ---
 
-## 💼 Professional Experience
-
-### **Data Analyst — Cognizant (India)**  
-*Sept 2022 – July 2025*
-
-- Designed and maintained **ETL pipelines processing 50K+ records**, improving data accuracy by **30%**
-- Built **automated datasets, data marts, and dashboards**, reducing reporting effort by **20+ hours/month**
-- Optimized complex SQL queries using **indexing, partitioning, and join strategies**, reducing latency by **40%**
-- Collaborated with **global teams (US, APAC, Europe)** in cross-functional environments
-- Applied **software engineering best practices** including version control, testing, and code reviews
-- Managed **end-to-end data lifecycle** with focus on security and compliance
-
----
-
-### **Software Engineer Intern — Cognizant (India)**  
-*April 2022 – Sept 2022*
-
-- Developed web applications using **Java, JavaScript, and SQL**
-- Automated internal fraud investigation workflows for **200+ users**
-- Improved debugging efficiency by **25%** via automated test cases and structured code reviews
-
----
 
 ## 📂 Featured Projects
 
-### ✈️ Airport Traffic Data Mapping & Integration
-- Built **Python-based ETL pipelines** using Airbyte to ingest **100K+ records** into BigQuery
-- Designed **fact and dimension tables** with **star schema modeling** using dbt
-- Created **OLAP queries and data marts** supporting **5+ business KPIs**
-- Implemented orchestration and automation aligned with scalable data engineering best practices
+<h3>📊 Airport Traffic Data Mapping & Integration</h3>
+
+<p><i>End-to-end data engineering pipeline for large-scale airport traffic analysis.</i></p>
+
+<p>
+  Built Python-based ETL pipelines to ingest and transform <b>100K+ records</b> into a
+  cloud data warehouse. Designed fact and dimension tables using star schema modeling
+  and created analytics-ready data marts.
+</p>
+
+<p>
+  <b>Tech Stack:</b> Python, Airbyte, BigQuery, dbt, SQL
+</p>
+
 
 ---
 
-### 🧠 Early Alzheimer’s Detection Using Machine Learning
-- Cleaned and validated healthcare datasets
-- Built a **Random Forest model with 93.69% accuracy**
-- Developed a **GUI for usability**
-- Published results in **IEEE**
+<h3>🧠 Early Alzheimer’s Detection Using Machine Learning</h3>
+
+<p><i>A machine learning–based system for early detection of Alzheimer’s disease.</i></p>
+
+<p>
+  Cleaned, validated, and preprocessed healthcare datasets to identify early indicators
+  of Alzheimer’s disease. Built and evaluated a <b>Random Forest classification model</b>
+  achieving <b>93.69% accuracy</b>. Designed a simple GUI to improve usability and
+  accessibility of the prediction system.
+</p>
+
+<p>
+  <b>Tech Stack:</b> Python, scikit-learn, Pandas, NumPy
+</p>
+
 
 ---
 
-## 🎯 Areas of Interest
+<h2>💡 What I'm Working On</h2>
 
-- Scalable Data Pipelines
-- Cloud Data Warehousing
-- Distributed Systems
-- Data Modeling & Analytics Engineering
-- Automation & Reliability
-- Data Products for Business Impact
+<ul>
+  <li>🔭 Building <b>scalable data pipelines</b> and <b>distributed data systems</b> using modern data engineering tools</li>
+  <li>🌱 Deepening my expertise in <b>machine learning</b>, <b>data science</b>, and analytics engineering</li>
+  <li>🎓 Pursuing my <b>Master’s in Data Science</b> at <b>San José State University</b></li>
+  <li>⚙️ Developing <b>end-to-end data products</b> including ETL pipelines, data models, and dashboards</li>
+  <li>🤝 Open to collaborating on <b>data engineering, analytics, and ML projects</b></li>
+  <li>💬 Ask me about <b>Python, SQL, Airflow, ETL pipelines, data modeling, or BI tools</b></li>
+</ul>
 
----
-
-## 📈 What You'll Find in My GitHub
-
-- End-to-end **data engineering projects**
-- SQL optimization & analytics workflows
-- ETL pipelines and orchestration examples
-- Machine learning projects with real-world datasets
-- Clean, well-documented, production-oriented code
 
 ---
 
