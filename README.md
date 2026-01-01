@@ -90,15 +90,21 @@ My background spans **distributed data processing, cloud data warehousing, data 
 <p><i>A machine learning–based system for early detection of Alzheimer’s disease.</i></p>
 
 <p>
-  Cleaned, validated, and preprocessed healthcare datasets to identify early indicators
-  of Alzheimer’s disease. Built and evaluated a <b>Random Forest classification model</b>
-  achieving <b>93.69% accuracy</b>. Designed a simple GUI to improve usability and
-  accessibility of the prediction system.
+  Performed data cleaning, validation, and preprocessing on healthcare datasets to
+  identify early indicators of Alzheimer’s disease. Developed a
+  <b>Random Forest classification model</b> achieving <b>93.69% accuracy</b>.
+  Designed a user-friendly GUI to improve accessibility of predictions.
+</p>
+
+<p>
+  📄 <b>Publication:</b> This work was published in an <b>IEEE conference journal</b>,
+  highlighting the model design, evaluation, and real-world applicability.
 </p>
 
 <p>
   <b>Tech Stack:</b> Python, scikit-learn, Pandas, NumPy
 </p>
+
 
 
 ---
